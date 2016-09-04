@@ -105,7 +105,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 207164,
-		"common": 950
+		"common": 951
 	},
 	{
 		"name": "cleantalk_7d",
@@ -153,13 +153,19 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 236247,
-		"common": 960
+		"common": 961
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111493,
 		"common": 818
+	},
+	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 16805,
+		"common": 1
 	},
 	{
 		"name": "darklist_de",
@@ -177,13 +183,13 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 251898,
-		"common": 583
+		"common": 584
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 303931,
-		"common": 144
+		"common": 143
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -225,13 +231,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 379123,
-		"common": 1017
+		"common": 1018
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90243,
-		"common": 1925
+		"ips": 90241,
+		"common": 1929
 	},
 	{
 		"name": "firehol_level2",
@@ -243,19 +249,19 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1547976,
-		"common": 238
+		"common": 239
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9585901,
-		"common": 107
+		"common": 108
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32591,
-		"common": 1927
+		"ips": 32589,
+		"common": 1931
 	},
 	{
 		"name": "firehol_webserver",
@@ -387,7 +393,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -453,7 +459,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 35717,
-		"common": 346
+		"common": 347
 	},
 	{
 		"name": "nullsecure",
@@ -735,7 +741,7 @@
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
 		"ips": 4011,
-		"common": 302
+		"common": 301
 	},
 	{
 		"name": "ri_web_proxies_7d",
@@ -764,14 +770,14 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15980,
-		"common": 1978
+		"ips": 15984,
+		"common": 1982
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5373,
-		"common": 1978
+		"ips": 5374,
+		"common": 1982
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -783,25 +789,25 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 439
+		"common": 443
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 90964,
-		"common": 833
+		"common": 835
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 38
+		"common": 41
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1463380,
-		"common": 1046
+		"common": 1049
 	},
 	{
 		"name": "sorbs_web",
@@ -813,7 +819,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 363
+		"common": 364
 	},
 	{
 		"name": "sslproxies",
@@ -830,26 +836,26 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5640,
+		"ips": 5634,
 		"common": 58
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2265,
+		"ips": 2255,
 		"common": 52
 	},
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 165071,
-		"common": 445
+		"common": 446
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 314144,
-		"common": 473
+		"common": 474
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -867,7 +873,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 614852,
-		"common": 505
+		"common": 506
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -879,7 +885,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 165731,
-		"common": 445
+		"common": 446
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -891,7 +897,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 10661,
-		"common": 193
+		"common": 194
 	},
 	{
 		"name": "tor_exits",
