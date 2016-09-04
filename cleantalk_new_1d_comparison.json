@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 956,
+		"ips": 954,
 		"common": 6
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10274,
+		"ips": 10235,
 		"common": 50
 	},
 	{
@@ -272,8 +272,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 97262,
-		"common": 156
+		"ips": 97988,
+		"common": 158
 	},
 	{
 		"name": "firehol_level3",
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584016,
+		"ips": 9583976,
 		"common": 187
 	},
 	{
@@ -308,8 +308,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3480,
-		"common": 21
+		"ips": 4257,
+		"common": 26
 	},
 	{
 		"name": "haley_ssh",
@@ -586,6 +586,30 @@
 		"category": "reputation",
 		"ips": 46224008,
 		"common": 395
+	},
+	{
+		"name": "ri_connect_proxies",
+		"category": "anonymizers",
+		"ips": 152,
+		"common": 1
+	},
+	{
+		"name": "ri_connect_proxies_1d",
+		"category": "anonymizers",
+		"ips": 186,
+		"common": 1
+	},
+	{
+		"name": "ri_connect_proxies_30d",
+		"category": "anonymizers",
+		"ips": 1722,
+		"common": 1
+	},
+	{
+		"name": "ri_connect_proxies_7d",
+		"category": "anonymizers",
+		"ips": 795,
+		"common": 1
 	},
 	{
 		"name": "ri_web_proxies",
