@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90236,
+		"ips": 90247,
 		"common": 3
 	},
 	{
@@ -230,19 +230,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1542695,
+		"ips": 1543529,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584164,
+		"ips": 9584121,
 		"common": 542
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32447,
+		"ips": 32458,
 		"common": 3
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15838,
+		"ips": 15840,
 		"common": 1
 	},
 	{
@@ -580,6 +580,12 @@
 		"category": "reputation",
 		"ips": 1227,
 		"common": 2
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 10049,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
