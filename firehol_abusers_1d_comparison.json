@@ -110,49 +110,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22087,
-		"common": 1595
+		"ips": 21694,
+		"common": 1590
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9175,
+		"ips": 9171,
 		"common": 107
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1500,
-		"common": 1051
+		"ips": 1490,
+		"common": 1044
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 172,
 		"common": 60
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 292,
-		"common": 107
+		"ips": 293,
+		"common": 108
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1344,
+		"ips": 1327,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17824,
-		"common": 373
+		"ips": 17456,
+		"common": 374
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1723,
+		"ips": 1711,
 		"common": 12
 	},
 	{
@@ -164,8 +164,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12078,
-		"common": 1164
+		"ips": 12057,
+		"common": 1163
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -542,8 +542,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105336,
-		"common": 1891
+		"ips": 104945,
+		"common": 1886
 	},
 	{
 		"name": "firehol_level3",
@@ -938,8 +938,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4817,
-		"common": 37
+		"ips": 4409,
+		"common": 35
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -994,6 +994,12 @@
 		"category": "attacks",
 		"ips": 9785,
 		"common": 79
+	},
+	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 125,
+		"common": 1
 	},
 	{
 		"name": "openbl_30d",
