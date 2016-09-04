@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11717,
+		"ips": 11646,
 		"common": 45
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1545390,
+		"ips": 1543323,
 		"common": 583
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585310,
+		"ips": 9585239,
 		"common": 129
 	},
 	{
@@ -554,8 +554,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 124,
-		"common": 124
+		"ips": 120,
+		"common": 120
 	},
 	{
 		"name": "openbl_30d",
@@ -645,6 +645,12 @@
 		"name": "shunlist",
 		"category": "attacks",
 		"ips": 500,
+		"common": 1
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 9621,
 		"common": 1
 	},
 	{
