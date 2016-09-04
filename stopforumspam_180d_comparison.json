@@ -459,24 +459,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 8
+		"common": 12
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 81920,
+		"ips": 81152,
 		"common": 177
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1471744,
+		"ips": 1472256,
 		"common": 2165
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 349440,
+		"ips": 349952,
 		"common": 807
 	},
 	{
@@ -692,20 +692,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90255,
+		"ips": 90257,
 		"common": 8333
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 665166593,
-		"common": 5732
+		"ips": 665166337,
+		"common": 5734
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105899,
-		"common": 2146
+		"ips": 105130,
+		"common": 2148
 	},
 	{
 		"name": "firehol_level3",
@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32467,
+		"ips": 32469,
 		"common": 7122
 	},
 	{
@@ -1527,25 +1527,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 19
+		"common": 28
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1879,
-		"common": 468
+		"ips": 1886,
+		"common": 470
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15874,
+		"ips": 15876,
 		"common": 2026
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5388,
-		"common": 887
+		"ips": 5386,
+		"common": 886
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1640,8 +1640,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 385,
-		"common": 59
+		"ips": 383,
+		"common": 58
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1652,7 +1652,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2291,
+		"ips": 2290,
 		"common": 289
 	},
 	{
@@ -1682,8 +1682,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 19085,
-		"common": 18880
+		"ips": 18691,
+		"common": 17306
 	},
 	{
 		"name": "stopforumspam_90d",
