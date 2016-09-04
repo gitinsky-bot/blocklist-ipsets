@@ -69,7 +69,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268310,
-		"common": 136
+		"common": 135
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -111,7 +111,7 @@
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 4323,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -192,27 +192,51 @@
 		"common": 139
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3866,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 40832,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 206938,
+		"ips": 206897,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97888,
+		"ips": 97849,
 		"common": 13
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 48384,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 236118,
+		"ips": 236088,
 		"common": 25
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111210,
+		"ips": 111173,
 		"common": 14
 	},
 	{
@@ -344,19 +368,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51305,
-		"common": 1
+		"ips": 51462,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 378957,
+		"ips": 378910,
 		"common": 27
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90234,
+		"ips": 90205,
 		"common": 1
 	},
 	{
@@ -368,7 +392,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107265,
+		"ips": 107286,
 		"common": 13
 	},
 	{
@@ -410,7 +434,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3397,
+		"ips": 3415,
 		"common": 4
 	},
 	{
@@ -429,7 +453,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19649,
-		"common": 1030
+		"common": 1027
 	},
 	{
 		"name": "hphosts_exp",
@@ -561,7 +585,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -663,7 +687,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 222
+		"common": 223
 	},
 	{
 		"name": "ransomware_locky_c2",
