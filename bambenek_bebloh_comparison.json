@@ -1,9 +1,15 @@
 [
 	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 13,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 270,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -12,34 +18,40 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_tinba",
+		"category": "malware",
+		"ips": 39,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 2067,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 4323,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 21218,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 12563,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 48129,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -51,7 +63,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665166586,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
@@ -63,7 +75,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442668,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
@@ -75,7 +87,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19649,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_exp",
@@ -87,7 +99,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 15063,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_mmt",
@@ -105,19 +117,19 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 16155,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 837,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
