@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 11297,
-		"common": 84
+		"common": 81
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -21,25 +21,25 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8045,
-		"common": 75
+		"common": 74
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 938,
-		"common": 90
+		"common": 89
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11086,
-		"common": 255
+		"common": 254
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3558,
-		"common": 194
+		"common": 193
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -57,7 +57,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 2295,
-		"common": 248
+		"common": 247
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -68,14 +68,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22143,
-		"common": 1355
+		"ips": 22058,
+		"common": 1343
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17886,
-		"common": 1355
+		"ips": 17809,
+		"common": 1343
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12225,
-		"common": 5
+		"ips": 12136,
+		"common": 6
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90240,
+		"ips": 90247,
 		"common": 15
 	},
 	{
@@ -356,25 +356,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106663,
-		"common": 1355
+		"ips": 106578,
+		"common": 1343
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1547343,
-		"common": 139
+		"common": 136
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585818,
-		"common": 22
+		"ips": 9585738,
+		"common": 23
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32478,
+		"ips": 32485,
 		"common": 1
 	},
 	{
@@ -429,7 +429,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -513,7 +513,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 115
+		"common": 113
 	},
 	{
 		"name": "iblocklist_level3",
@@ -615,49 +615,49 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9785,
-		"common": 84
+		"common": 81
 	},
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
 		"ips": 126,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2257,
-		"common": 67
+		"common": 64
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19322,
-		"common": 87
+		"common": 84
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3884,
-		"common": 76
+		"common": 73
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 586,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5361,
-		"common": 80
+		"common": 77
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 122702,
-		"common": 96
+		"common": 93
 	},
 	{
 		"name": "packetmail",
@@ -723,37 +723,37 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 136
+		"common": 133
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 62176,
-		"common": 8
+		"ips": 56691,
+		"common": 7
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1444228,
+		"ips": 1439519,
 		"common": 64
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204358,
-		"common": 352
+		"common": 347
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 98
+		"common": 96
 	},
 	{
 		"name": "sp_atma",
@@ -776,7 +776,7 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 165071,
+		"ips": 164659,
 		"common": 20
 	},
 	{
