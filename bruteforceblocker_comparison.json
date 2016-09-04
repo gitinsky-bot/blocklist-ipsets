@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 11297,
-		"common": 519
+		"common": 517
 	},
 	{
 		"name": "atlas_attacks",
@@ -69,19 +69,19 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 931,
-		"common": 179
+		"common": 182
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11086,
-		"common": 834
+		"common": 832
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3558,
-		"common": 467
+		"common": 469
 	},
 	{
 		"name": "bi_bruteforce_2_30d",
@@ -111,19 +111,19 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 7938,
-		"common": 834
+		"common": 833
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22678,
-		"common": 236
+		"ips": 22395,
+		"common": 242
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1720,
-		"common": 236
+		"ips": 1716,
+		"common": 242
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -303,31 +303,31 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 18
+		"common": 9
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 81664,
-		"common": 66
+		"ips": 81408,
+		"common": 67
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1474816,
-		"common": 342
+		"ips": 1475840,
+		"common": 341
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 350208,
+		"ips": 350720,
 		"common": 181
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 879,
-		"common": 100
+		"common": 98
 	},
 	{
 		"name": "et_block",
@@ -339,7 +339,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1235,
-		"common": 1160
+		"common": 1157
 	},
 	{
 		"name": "et_dshield",
@@ -368,26 +368,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90205,
+		"ips": 90210,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 665166588,
-		"common": 20
+		"ips": 665166332,
+		"common": 11
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 107286,
-		"common": 262
+		"common": 268
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1548026,
-		"common": 1225
+		"ips": 1549054,
+		"common": 1229
 	},
 	{
 		"name": "firehol_level4",
@@ -398,14 +398,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32465,
+		"ips": 32470,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442668,
-		"common": 153
+		"common": 155
 	},
 	{
 		"name": "gofferje_sip",
@@ -447,7 +447,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 138
+		"common": 142
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -615,7 +615,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9785,
-		"common": 520
+		"common": 518
 	},
 	{
 		"name": "openbl_1d",
@@ -627,19 +627,19 @@
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2257,
-		"common": 485
+		"common": 484
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19322,
-		"common": 524
+		"common": 522
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3884,
-		"common": 507
+		"common": 505
 	},
 	{
 		"name": "openbl_7d",
@@ -651,13 +651,13 @@
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5361,
-		"common": 512
+		"common": 510
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 122702,
-		"common": 529
+		"common": 527
 	},
 	{
 		"name": "packetmail",
@@ -711,7 +711,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 139
+		"common": 141
 	},
 	{
 		"name": "sblam",
@@ -759,7 +759,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 74
+		"common": 73
 	},
 	{
 		"name": "spamhaus_drop",
@@ -825,7 +825,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9488,
-		"common": 292
+		"common": 291
 	},
 	{
 		"name": "tor_exits_30d",
