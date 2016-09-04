@@ -6,6 +6,12 @@
 		"common": 188
 	},
 	{
+		"name": "anonymous",
+		"category": "geolocation",
+		"ips": 51032,
+		"common": 1
+	},
+	{
 		"name": "atlas_attacks",
 		"category": "attacks",
 		"ips": 10,
@@ -219,7 +225,7 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -360,6 +366,12 @@
 		"common": 16
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 90203,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665164552,
@@ -374,20 +386,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1542370,
-		"common": 878
+		"ips": 1542371,
+		"common": 879
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584375,
+		"ips": 9584370,
 		"common": 91
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442668,
-		"common": 209
+		"common": 208
 	},
 	{
 		"name": "gofferje_sip",
@@ -465,7 +477,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 92
+		"common": 93
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -650,7 +662,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 122716,
+		"ips": 122718,
 		"common": 159
 	},
 	{
@@ -681,7 +693,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 186
+		"common": 185
 	},
 	{
 		"name": "ransomware_feed",
@@ -717,7 +729,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "sp_atma",
