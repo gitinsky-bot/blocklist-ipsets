@@ -108,16 +108,22 @@
 		"common": 2
 	},
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 665166341,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107098,
+		"ips": 105336,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1547855,
-		"common": 54
+		"ips": 1547856,
+		"common": 57
 	},
 	{
 		"name": "firehol_level4",
@@ -129,7 +135,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442668,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "gofferje_sip",
@@ -147,7 +153,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19649,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "hphosts_fsa",
@@ -165,7 +171,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "iblocklist_edu",
@@ -248,14 +254,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1602,
+		"ips": 1601,
 		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 10992,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
@@ -279,7 +285,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 10045,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "urlvir",
@@ -291,6 +297,18 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 47,
-		"common": 18
+		"common": 19
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 159,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 136,
+		"common": 1
 	}
 ]
