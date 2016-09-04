@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11327,
+		"ips": 11290,
 		"common": 31
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 348672,
+		"ips": 347648,
 		"common": 3
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90229,
+		"ips": 90230,
 		"common": 67
 	},
 	{
@@ -224,19 +224,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1542705,
+		"ips": 1541937,
 		"common": 33
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585006,
+		"ips": 9584968,
 		"common": 96
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32483,
+		"ips": 32484,
 		"common": 63
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21789,
+		"ips": 21790,
 		"common": 1
 	},
 	{
@@ -318,6 +318,12 @@
 		"common": 85
 	},
 	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 6851,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_org_blizzard",
 		"category": "organizations",
 		"ips": 16795139,
@@ -368,8 +374,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38134,
-		"common": 12
+		"ips": 38115,
+		"common": 13
 	},
 	{
 		"name": "openbl_all",
@@ -531,18 +537,18 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1906,
+		"ips": 1915,
 		"common": 36
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15878,
+		"ips": 15879,
 		"common": 37
 	},
 	{
@@ -608,7 +614,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 384,
+		"ips": 385,
 		"common": 22
 	},
 	{
@@ -620,7 +626,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2297,
+		"ips": 2292,
 		"common": 23
 	},
 	{
