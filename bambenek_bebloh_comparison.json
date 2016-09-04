@@ -1,15 +1,9 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 11231,
-		"common": 1
-	},
-	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 270,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -18,9 +12,9 @@
 		"common": 1
 	},
 	{
-		"name": "bambenek_tinba",
-		"category": "malware",
-		"ips": 34,
+		"name": "blueliv_crimeserver_last_1d",
+		"category": "attacks",
+		"ips": 2067,
 		"common": 1
 	},
 	{
@@ -48,10 +42,22 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12190,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665166587,
-		"common": 3
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9585922,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -72,6 +78,12 @@
 		"common": 2
 	},
 	{
+		"name": "hphosts_exp",
+		"category": "malware",
+		"ips": 303,
+		"common": 1
+	},
+	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 15063,
@@ -84,34 +96,46 @@
 		"common": 2
 	},
 	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1731,
+		"common": 1
+	},
+	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 16155,
 		"common": 3
 	},
 	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 837,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12295,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sp_atma",
@@ -120,15 +144,9 @@
 		"common": 1
 	},
 	{
-		"name": "threatcrowd",
-		"category": "malware",
-		"ips": 2594,
-		"common": 1
-	},
-	{
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12979,
-		"common": 2
+		"common": 1
 	}
 ]
