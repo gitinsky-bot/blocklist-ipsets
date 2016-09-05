@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 955,
-		"common": 129
+		"ips": 926,
+		"common": 126
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,26 +92,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19568,
-		"common": 1036
+		"ips": 19605,
+		"common": 1033
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1579,
-		"common": 299
+		"ips": 1573,
+		"common": 295
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1332,
+		"ips": 1337,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15234,
+		"ips": 15287,
 		"common": 737
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 1651,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -164,26 +170,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 40,
-		"common": 4
+		"ips": 22,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1224,
-		"common": 162
+		"ips": 1206,
+		"common": 161
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19505,
-		"common": 1654
+		"ips": 19498,
+		"common": 1655
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5518,
-		"common": 653
+		"ips": 5516,
+		"common": 652
 	},
 	{
 		"name": "bruteforceblocker",
@@ -308,7 +314,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 252201,
+		"ips": 252212,
 		"common": 6960
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51256,
+		"ips": 51253,
 		"common": 3215
 	},
 	{
@@ -470,8 +476,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95343,
-		"common": 1074
+		"ips": 95392,
+		"common": 1071
 	},
 	{
 		"name": "firehol_level3",
@@ -482,8 +488,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583415,
-		"common": 1708
+		"ips": 9583408,
+		"common": 1709
 	},
 	{
 		"name": "firehol_webserver",
@@ -512,7 +518,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4185,
+		"ips": 4202,
 		"common": 26
 	},
 	{
@@ -812,8 +818,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39513,
-		"common": 68
+		"ips": 39609,
+		"common": 76
 	},
 	{
 		"name": "nt_ssh_7d",

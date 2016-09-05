@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 955,
+		"ips": 926,
 		"common": 4
 	},
 	{
@@ -44,20 +44,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19568,
-		"common": 193
+		"ips": 19605,
+		"common": 192
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1579,
-		"common": 177
+		"ips": 1573,
+		"common": 175
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15234,
+		"ips": 15287,
 		"common": 16
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 1651,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -96,28 +102,22 @@
 		"common": 1
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 40,
-		"common": 2
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1224,
-		"common": 74
+		"ips": 1206,
+		"common": 72
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19505,
+		"ips": 19498,
 		"common": 381
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5518,
-		"common": 240
+		"ips": 5516,
+		"common": 239
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -224,7 +224,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 252201,
+		"ips": 252212,
 		"common": 747
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51256,
+		"ips": 51253,
 		"common": 1227
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95343,
-		"common": 204
+		"ips": 95392,
+		"common": 203
 	},
 	{
 		"name": "firehol_level3",
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583415,
+		"ips": 9583408,
 		"common": 387
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4185,
+		"ips": 4202,
 		"common": 10
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39513,
-		"common": 10
+		"ips": 39609,
+		"common": 14
 	},
 	{
 		"name": "nullsecure",
