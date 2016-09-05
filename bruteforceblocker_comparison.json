@@ -110,14 +110,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19324,
-		"common": 236
+		"ips": 19288,
+		"common": 235
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1621,
-		"common": 236
+		"ips": 1622,
+		"common": 235
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -174,9 +174,15 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4040,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 40287,
+		"ips": 40381,
 		"common": 14
 	},
 	{
@@ -188,37 +194,43 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97877,
+		"ips": 97921,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 72205,
+		"ips": 72196,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22174,
+		"ips": 22182,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 48819,
+		"ips": 48982,
 		"common": 14
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 235831,
+		"ips": 235836,
 		"common": 43
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111676,
+		"ips": 111759,
 		"common": 26
 	},
 	{
@@ -338,19 +350,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51037,
+		"ips": 51120,
 		"common": 15
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 378102,
+		"ips": 378086,
 		"common": 46
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90264,
+		"ips": 90260,
 		"common": 1
 	},
 	{
@@ -362,8 +374,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95591,
-		"common": 265
+		"ips": 95554,
+		"common": 264
 	},
 	{
 		"name": "firehol_level3",
@@ -380,7 +392,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32497,
+		"ips": 32493,
 		"common": 1
 	},
 	{
@@ -596,8 +608,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 96,
-		"common": 32
+		"ips": 97,
+		"common": 33
 	},
 	{
 		"name": "openbl_30d",
