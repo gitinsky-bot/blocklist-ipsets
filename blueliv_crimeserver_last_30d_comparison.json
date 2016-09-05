@@ -212,8 +212,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22867,
-		"common": 3
+		"ips": 23063,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -224,20 +224,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1388,
+		"ips": 1387,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18306,
+		"ips": 18497,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 1824,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10547,
-		"common": 209
+		"ips": 10641,
+		"common": 211
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -644,8 +650,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95385,
-		"common": 77
+		"ips": 95577,
+		"common": 78
 	},
 	{
 		"name": "firehol_level3",
@@ -656,8 +662,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584501,
-		"common": 2048
+		"ips": 9584593,
+		"common": 2050
 	},
 	{
 		"name": "firehol_proxies",
@@ -1286,7 +1292,7 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 139495,
+		"ips": 146967,
 		"common": 23
 	},
 	{
@@ -1298,13 +1304,13 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1452072,
-		"common": 230
+		"ips": 1456578,
+		"common": 228
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 6204347,
+		"ips": 6204345,
 		"common": 75
 	},
 	{
