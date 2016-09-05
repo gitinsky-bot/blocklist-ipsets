@@ -734,8 +734,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90191,
-		"common": 8806
+		"ips": 90196,
+		"common": 8811
 	},
 	{
 		"name": "firehol_level1",
@@ -746,13 +746,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 92277,
-		"common": 7915
+		"ips": 92542,
+		"common": 7923
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1534933,
+		"ips": 1534165,
 		"common": 183624
 	},
 	{
@@ -764,8 +764,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32461,
-		"common": 8766
+		"ips": 32466,
+		"common": 8771
 	},
 	{
 		"name": "firehol_webserver",
@@ -1184,7 +1184,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 90,
+		"ips": 89,
 		"common": 9
 	},
 	{
@@ -1539,13 +1539,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1897,
-		"common": 320
+		"ips": 1892,
+		"common": 318
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1556,8 +1556,8 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5306,
-		"common": 1439
+		"ips": 5290,
+		"common": 1429
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1641,25 +1641,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 359,
-		"common": 173
+		"ips": 357,
+		"common": 175
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5664,
-		"common": 2981
+		"ips": 5669,
+		"common": 2986
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2176,
-		"common": 1129
+		"ips": 2166,
+		"common": 1126
 	},
 	{
 		"name": "stopforumspam",
@@ -1762,6 +1762,12 @@
 		"category": "reputation",
 		"ips": 10049,
 		"common": 1744
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 576,
+		"common": 8
 	},
 	{
 		"name": "voipbl",
