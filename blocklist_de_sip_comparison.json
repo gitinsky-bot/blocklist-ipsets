@@ -6,12 +6,6 @@
 		"common": 4
 	},
 	{
-		"name": "anonymous",
-		"category": "geolocation",
-		"ips": 51032,
-		"common": 1
-	},
-	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268310,
@@ -50,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 23579,
-		"common": 58
+		"ips": 23659,
+		"common": 56
 	},
 	{
 		"name": "ciarmy",
@@ -96,16 +90,10 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_anonymous",
-		"category": "anonymizers",
-		"ips": 90278,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 96109,
-		"common": 58
+		"ips": 96187,
+		"common": 56
 	},
 	{
 		"name": "firehol_level3",
@@ -116,14 +104,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584679,
+		"ips": 9584675,
 		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442771,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "gofferje_sip",
@@ -142,12 +130,6 @@
 		"category": "attacks",
 		"ips": 21797,
 		"common": 7
-	},
-	{
-		"name": "iblocklist_badpeers",
-		"category": "reputation",
-		"ips": 1568848,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -255,7 +237,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "sorbs_dul",
@@ -291,6 +273,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18819,
-		"common": 50
+		"common": 49
 	}
 ]
