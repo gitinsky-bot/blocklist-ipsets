@@ -84,21 +84,27 @@
 		"common": 4
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 64000,
+		"ips": 65536,
 		"common": 6
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1454336,
+		"ips": 1454592,
 		"common": 8
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 327936,
+		"ips": 328704,
 		"common": 7
 	},
 	{
@@ -106,6 +112,12 @@
 		"category": "attacks",
 		"ips": 879,
 		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 665002763,
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
