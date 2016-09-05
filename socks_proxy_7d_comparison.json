@@ -39,7 +39,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11027,
-		"common": 465
+		"common": 464
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -51,7 +51,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 2214,
-		"common": 459
+		"common": 458
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -98,8 +98,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6894,
-		"common": 4
+		"ips": 6917,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
@@ -141,13 +141,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 206997,
-		"common": 2075
+		"common": 2072
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 97879,
-		"common": 1713
+		"common": 1712
 	},
 	{
 		"name": "cleantalk_new",
@@ -165,13 +165,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 72098,
-		"common": 684
+		"common": 682
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 22141,
-		"common": 553
+		"common": 552
 	},
 	{
 		"name": "cleantalk_updated",
@@ -189,7 +189,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 235879,
-		"common": 2104
+		"common": 2101
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -230,8 +230,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 252413,
-		"common": 1437
+		"ips": 252416,
+		"common": 1438
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -291,13 +291,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 378069,
-		"common": 2236
+		"common": 2233
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90212,
-		"common": 5203
+		"ips": 90170,
+		"common": 5193
 	},
 	{
 		"name": "firehol_level2",
@@ -308,8 +308,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1535892,
-		"common": 323
+		"ips": 1535903,
+		"common": 322
 	},
 	{
 		"name": "firehol_level4",
@@ -320,8 +320,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32480,
-		"common": 5208
+		"ips": 32486,
+		"common": 5198
 	},
 	{
 		"name": "firehol_webserver",
@@ -543,7 +543,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2253830,
-		"common": 1339
+		"common": 1337
 	},
 	{
 		"name": "myip",
@@ -837,13 +837,13 @@
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
 		"ips": 3988,
-		"common": 459
+		"common": 458
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
 		"ips": 1415,
-		"common": 214
+		"common": 213
 	},
 	{
 		"name": "sblam",
@@ -855,7 +855,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 8436,
-		"common": 253
+		"common": 252
 	},
 	{
 		"name": "socks_proxy",
@@ -872,8 +872,8 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15798,
-		"common": 5338
+		"ips": 15799,
+		"common": 5328
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -885,7 +885,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 1431
+		"common": 1429
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -897,25 +897,25 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 106
+		"common": 105
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1424291,
-		"common": 2423
+		"common": 2420
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204353,
-		"common": 976
+		"common": 975
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 1448
+		"common": 1443
 	},
 	{
 		"name": "sslproxies",
@@ -926,19 +926,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 390,
+		"ips": 392,
 		"common": 17
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5647,
+		"ips": 5652,
 		"common": 189
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2190,
+		"ips": 2195,
 		"common": 151
 	},
 	{
@@ -993,7 +993,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 8334,
-		"common": 246
+		"common": 245
 	},
 	{
 		"name": "tor_exits",
