@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9483,
+		"ips": 9482,
 		"common": 6
 	},
 	{
@@ -258,21 +258,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 70144,
+		"ips": 69376,
 		"common": 10
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1464064,
+		"ips": 1463296,
 		"common": 39
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 331520,
+		"ips": 331008,
 		"common": 22
 	},
 	{
@@ -327,7 +333,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665033985,
-		"common": 41
+		"common": 43
 	},
 	{
 		"name": "firehol_level2",
@@ -338,13 +344,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1535238,
+		"ips": 1534470,
 		"common": 53
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583286,
+		"ips": 9583285,
 		"common": 129
 	},
 	{
@@ -621,12 +627,6 @@
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 180,
-		"common": 1
-	},
-	{
-		"name": "ransomware_rw",
-		"category": "malware",
-		"ips": 11345,
 		"common": 1
 	},
 	{
