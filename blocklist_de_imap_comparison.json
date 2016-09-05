@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 10991,
-		"common": 88
+		"common": 87
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -21,25 +21,25 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8142,
-		"common": 72
+		"common": 71
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 964,
-		"common": 98
+		"common": 100
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11086,
-		"common": 263
+		"common": 266
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3536,
-		"common": 202
+		"common": 205
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -57,7 +57,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 2214,
-		"common": 265
+		"common": 268
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -68,14 +68,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19455,
-		"common": 1334
+		"ips": 19498,
+		"common": 1339
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15215,
-		"common": 1334
+		"ips": 15241,
+		"common": 1339
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -140,7 +140,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 1126,
+		"ips": 1150,
 		"common": 3
 	},
 	{
@@ -303,13 +303,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 23350608,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 23344896,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "et_tor",
@@ -332,26 +332,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90132,
+		"ips": 90126,
 		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665034006,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95733,
-		"common": 1327
+		"ips": 95752,
+		"common": 1339
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1542323,
-		"common": 136
+		"ips": 1542338,
+		"common": 135
 	},
 	{
 		"name": "firehol_level4",
@@ -399,7 +399,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -489,7 +489,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 96
+		"common": 97
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -519,7 +519,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 23278336,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -567,7 +567,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9768,
-		"common": 84
+		"common": 83
 	},
 	{
 		"name": "openbl_1d",
@@ -579,37 +579,37 @@
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2246,
-		"common": 63
+		"common": 62
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19283,
-		"common": 88
+		"common": 87
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3876,
-		"common": 75
+		"common": 74
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 572,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5362,
-		"common": 80
+		"common": 79
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 122721,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "packetmail",
@@ -699,7 +699,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 133
+		"common": 132
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -711,7 +711,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -723,7 +723,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204355,
-		"common": 343
+		"common": 342
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -735,7 +735,7 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 23147520,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "spamhaus_edrop",
