@@ -74,25 +74,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20085,
+		"ips": 19993,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1340,
+		"ips": 1332,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15624,
+		"ips": 15567,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 9482,
+		"ips": 9472,
 		"common": 1
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6917,
-		"common": 111
+		"ips": 6928,
+		"common": 110
 	},
 	{
 		"name": "bogons",
@@ -206,8 +206,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6918,
-		"common": 111
+		"ips": 6924,
+		"common": 110
 	},
 	{
 		"name": "dragon_http",
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 82276,
+		"ips": 82298,
 		"common": 3
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90224,
-		"common": 122
+		"ips": 90174,
+		"common": 121
 	},
 	{
 		"name": "firehol_level1",
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 91674,
+		"ips": 90817,
 		"common": 15
 	},
 	{
@@ -320,13 +320,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583285,
+		"ips": 9583277,
 		"common": 17
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32484,
+		"ips": 32479,
 		"common": 1
 	},
 	{
@@ -591,6 +591,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39623,
 		"common": 1
 	},
 	{
