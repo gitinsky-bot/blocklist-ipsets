@@ -68,37 +68,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20197,
+		"ips": 20208,
 		"common": 63
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9286,
+		"ips": 9276,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1595,
+		"ips": 1597,
 		"common": 44
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 167,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15738,
+		"ips": 15765,
 		"common": 28
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 146,
+		"ips": 145,
 		"common": 25
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 90796,
+		"ips": 90808,
 		"common": 77
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1533614,
+		"ips": 1533611,
 		"common": 189
 	},
 	{
@@ -552,10 +552,28 @@
 		"common": 4
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 35,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 69,
+		"common": 1
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 364,
+		"ips": 396,
 		"common": 3
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 168,
+		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -620,32 +638,32 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9767,
+		"ips": 9764,
 		"common": 13
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2243,
+		"ips": 2238,
 		"common": 3
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 19268,
+		"ips": 19262,
 		"common": 28
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3864,
+		"ips": 3856,
 		"common": 7
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 565,
-		"common": 2
+		"ips": 562,
+		"common": 1
 	},
 	{
 		"name": "openbl_90d",
@@ -1118,13 +1136,13 @@
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 677,
+		"ips": 678,
 		"common": 2
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 404,
+		"ips": 405,
 		"common": 2
 	}
 ]

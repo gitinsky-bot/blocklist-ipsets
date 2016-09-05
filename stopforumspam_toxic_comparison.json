@@ -152,55 +152,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20197,
+		"ips": 20208,
 		"common": 3413
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9286,
+		"ips": 9276,
 		"common": 3335
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1595,
+		"ips": 1597,
 		"common": 59
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 167,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 314,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1341,
+		"ips": 1339,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15738,
+		"ips": 15765,
 		"common": 3345
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1696,
+		"ips": 1692,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 146,
+		"ips": 145,
 		"common": 60
 	},
 	{
@@ -566,14 +566,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 90796,
+		"ips": 90808,
 		"common": 3929
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1533614,
-		"common": 5188
+		"ips": 1533611,
+		"common": 5189
 	},
 	{
 		"name": "firehol_level4",
@@ -762,10 +762,28 @@
 		"common": 1024
 	},
 	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 35,
+		"common": 3
+	},
+	{
+		"name": "ipblacklistcloud_recent_1d",
+		"category": "abuse",
+		"ips": 69,
+		"common": 3
+	},
+	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 364,
-		"common": 7
+		"ips": 396,
+		"common": 9
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 168,
+		"common": 3
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -836,7 +854,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9767,
+		"ips": 9764,
 		"common": 90
 	},
 	{
@@ -848,26 +866,26 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2243,
-		"common": 17
+		"ips": 2238,
+		"common": 18
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 19268,
+		"ips": 19262,
 		"common": 153
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3864,
+		"ips": 3856,
 		"common": 43
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 565,
-		"common": 6
+		"ips": 562,
+		"common": 7
 	},
 	{
 		"name": "openbl_90d",
@@ -1352,19 +1370,19 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 169,
+		"ips": 174,
 		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 677,
+		"ips": 678,
 		"common": 3
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 404,
+		"ips": 405,
 		"common": 1
 	},
 	{
