@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 962,
-		"common": 34
+		"ips": 964,
+		"common": 33
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10075,
+		"ips": 10081,
 		"common": 39
 	},
 	{
@@ -294,21 +294,27 @@
 		"common": 305
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 73472,
-		"common": 4
+		"ips": 72704,
+		"common": 5
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1469696,
+		"ips": 1470464,
 		"common": 65
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 340992,
+		"ips": 341760,
 		"common": 20
 	},
 	{
@@ -356,25 +362,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 665033754,
-		"common": 3
+		"ips": 665034010,
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 96503,
-		"common": 322
+		"ips": 95733,
+		"common": 323
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1542068,
+		"ips": 1542323,
 		"common": 161
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583838,
+		"ips": 9583844,
 		"common": 950
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4163,
+		"ips": 4155,
 		"common": 11
 	},
 	{
@@ -944,8 +950,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 48308,
-		"common": 158
+		"ips": 49473,
+		"common": 159
 	},
 	{
 		"name": "sorbs_noserver",
@@ -956,7 +962,7 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1412052,
+		"ips": 1412802,
 		"common": 790
 	},
 	{
@@ -993,7 +999,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "sslproxies_1d",
