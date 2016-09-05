@@ -50,13 +50,13 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 15,
+		"ips": 14,
 		"common": 1
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 114,
+		"ips": 112,
 		"common": 3
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10101,
+		"ips": 10035,
 		"common": 4
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583866,
+		"ips": 9583797,
 		"common": 157
 	},
 	{
@@ -999,6 +999,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36928,
 		"common": 1
 	},
 	{
