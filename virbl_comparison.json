@@ -2,8 +2,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 90927,
-		"common": 10
+		"ips": 90946,
+		"common": 38
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
+		"common": 3
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -18,15 +30,39 @@
 		"common": 1
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 2253830,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39546,
+		"common": 6
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 373113050,
+		"common": 3
+	},
+	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 69939,
 		"common": 1
 	},
 	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 20924774,
+		"common": 3
+	},
+	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1424291,
-		"common": 2
+		"common": 4
 	}
 ]
