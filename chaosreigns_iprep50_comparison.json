@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19989,
+		"ips": 19899,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15560,
+		"ips": 15485,
 		"common": 1
 	},
 	{
@@ -90,27 +90,51 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4012,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 40602,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 206997,
+		"ips": 207024,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97879,
+		"ips": 97894,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 49372,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 235879,
+		"ips": 235902,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111830,
+		"ips": 111846,
 		"common": 3
 	},
 	{
@@ -134,7 +158,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1465088,
+		"ips": 1463552,
 		"common": 2
 	},
 	{
@@ -144,9 +168,15 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 51560,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 378069,
+		"ips": 378117,
 		"common": 4
 	},
 	{
@@ -158,19 +188,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 94781,
+		"ips": 94691,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1535903,
+		"ips": 1534367,
 		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583379,
+		"ips": 9583363,
 		"common": 14
 	},
 	{
@@ -382,12 +412,6 @@
 		"category": "spam",
 		"ips": 2253830,
 		"common": 123
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 39729,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",
