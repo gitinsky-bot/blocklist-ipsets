@@ -116,14 +116,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19763,
-		"common": 716
+		"ips": 19749,
+		"common": 717
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9166,
+		"ips": 9169,
 		"common": 12
+	},
+	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 1540,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -134,32 +140,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 290,
+		"ips": 288,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1334,
-		"common": 96
+		"ips": 1336,
+		"common": 98
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15583,
-		"common": 229
+		"ips": 15556,
+		"common": 228
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 130,
+		"ips": 129,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1618,
-		"common": 431
+		"ips": 1625,
+		"common": 432
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -170,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10228,
+		"ips": 10217,
 		"common": 91
 	},
 	{
@@ -194,14 +200,14 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19560,
+		"ips": 19559,
 		"common": 32
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5553,
-		"common": 13
+		"ips": 5549,
+		"common": 12
 	},
 	{
 		"name": "bruteforceblocker",
@@ -434,7 +440,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50863,
+		"ips": 50868,
 		"common": 121
 	},
 	{
@@ -458,8 +464,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 97920,
-		"common": 746
+		"ips": 97907,
+		"common": 747
 	},
 	{
 		"name": "firehol_level3",
@@ -470,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583988,
+		"ips": 9583980,
 		"common": 212
 	},
 	{
@@ -674,8 +680,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36750,
-		"common": 90
+		"ips": 36783,
+		"common": 91
 	},
 	{
 		"name": "nt_ssh_7d",
