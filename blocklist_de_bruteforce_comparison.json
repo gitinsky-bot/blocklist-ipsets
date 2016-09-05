@@ -26,14 +26,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19401,
-		"common": 177
+		"ips": 19438,
+		"common": 178
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9205,
-		"common": 177
+		"ips": 9210,
+		"common": 178
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -63,19 +63,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 40402,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 206984,
-		"common": 84
+		"common": 85
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 97929,
-		"common": 81
+		"common": 82
 	},
 	{
 		"name": "cleantalk_new_30d",
@@ -99,19 +99,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 49076,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 235811,
-		"common": 88
+		"common": 89
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 111901,
-		"common": 83
+		"common": 84
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -177,13 +177,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 51276,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 378037,
-		"common": 87
+		"common": 88
 	},
 	{
 		"name": "firehol_level1",
@@ -194,13 +194,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95411,
-		"common": 177
+		"ips": 95447,
+		"common": 178
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1536322,
+		"ips": 1536328,
 		"common": 10
 	},
 	{
@@ -213,13 +213,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442713,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095191,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "gpf_comics",
@@ -231,7 +231,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 4167,
-		"common": 101
+		"common": 102
 	},
 	{
 		"name": "hphosts_emd",
@@ -354,10 +354,16 @@
 		"common": 3
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38743,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "shunlist",
