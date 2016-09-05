@@ -290,8 +290,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6928,
-		"common": 26
+		"ips": 6924,
+		"common": 25
 	},
 	{
 		"name": "botscout",
@@ -764,7 +764,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90207,
+		"ips": 90197,
 		"common": 2762
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 92762,
-		"common": 2178
+		"ips": 93035,
+		"common": 2186
 	},
 	{
 		"name": "firehol_level3",
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32469,
+		"ips": 32467,
 		"common": 2635
 	},
 	{
@@ -1232,7 +1232,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 91,
+		"ips": 90,
 		"common": 10
 	},
 	{
@@ -1412,26 +1412,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 866,
-		"common": 41
+		"ips": 851,
+		"common": 35
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2200,
-		"common": 106
+		"ips": 2119,
+		"common": 103
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 8265,
+		"ips": 8261,
 		"common": 367
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5506,
-		"common": 255
+		"ips": 5484,
+		"common": 253
 	},
 	{
 		"name": "proxyspy",
@@ -1581,12 +1581,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 16
+		"common": 25
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1884,
+		"ips": 1886,
 		"common": 514
 	},
 	{
@@ -1598,7 +1598,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5311,
+		"ips": 5310,
 		"common": 967
 	},
 	{
@@ -1706,7 +1706,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2173,
+		"ips": 2172,
 		"common": 39
 	},
 	{
@@ -1816,6 +1816,12 @@
 		"category": "malware",
 		"ips": 86,
 		"common": 1
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 310,
+		"common": 8
 	},
 	{
 		"name": "voipbl",

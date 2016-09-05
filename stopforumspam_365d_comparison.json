@@ -242,8 +242,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6928,
-		"common": 743
+		"ips": 6924,
+		"common": 741
 	},
 	{
 		"name": "bogons",
@@ -435,7 +435,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6920,
-		"common": 740
+		"common": 737
 	},
 	{
 		"name": "dragon_http",
@@ -734,8 +734,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90207,
-		"common": 10097
+		"ips": 90197,
+		"common": 10096
 	},
 	{
 		"name": "firehol_level1",
@@ -746,8 +746,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 92762,
-		"common": 2455
+		"ips": 93035,
+		"common": 2457
 	},
 	{
 		"name": "firehol_level3",
@@ -764,8 +764,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32469,
-		"common": 7671
+		"ips": 32467,
+		"common": 7670
 	},
 	{
 		"name": "firehol_webserver",
@@ -1232,7 +1232,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 91,
+		"ips": 90,
 		"common": 2
 	},
 	{
@@ -1418,26 +1418,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 866,
-		"common": 567
+		"ips": 851,
+		"common": 547
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 2200,
-		"common": 1307
+		"ips": 2119,
+		"common": 1270
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 8265,
-		"common": 4025
+		"ips": 8261,
+		"common": 4020
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 5506,
-		"common": 2728
+		"ips": 5484,
+		"common": 2716
 	},
 	{
 		"name": "proxyspy",
@@ -1593,12 +1593,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 17
+		"common": 24
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1884,
+		"ips": 1886,
 		"common": 532
 	},
 	{
@@ -1610,7 +1610,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5311,
+		"ips": 5310,
 		"common": 991
 	},
 	{
@@ -1718,7 +1718,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 2173,
+		"ips": 2172,
 		"common": 321
 	},
 	{
@@ -1816,6 +1816,12 @@
 		"category": "reputation",
 		"ips": 10049,
 		"common": 86
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 310,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
