@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 10991,
-		"common": 190
+		"common": 189
 	},
 	{
 		"name": "anonymous",
@@ -63,7 +63,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268310,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -87,7 +87,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11086,
-		"common": 217
+		"common": 216
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -117,7 +117,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 7938,
-		"common": 213
+		"common": 212
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -333,13 +333,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 73728,
-		"common": 128
+		"common": 129
 	},
 	{
 		"name": "dshield_30d",
@@ -351,13 +351,13 @@
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 339456,
-		"common": 284
+		"common": 285
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 23350608,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "et_compromised",
@@ -375,12 +375,12 @@
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 23344896,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 50983,
+		"ips": 51026,
 		"common": 1
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90207,
+		"ips": 90204,
 		"common": 1
 	},
 	{
@@ -405,7 +405,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 96647,
-		"common": 165
+		"common": 166
 	},
 	{
 		"name": "firehol_level3",
@@ -416,14 +416,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583641,
+		"ips": 9583642,
 		"common": 92
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442713,
-		"common": 206
+		"common": 207
 	},
 	{
 		"name": "gofferje_sip",
@@ -501,7 +501,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 94
+		"common": 95
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -537,7 +537,7 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -555,7 +555,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "iblocklist_level2",
@@ -568,12 +568,6 @@
 		"category": "reputation",
 		"ips": 139023007,
 		"common": 87
-	},
-	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_org_steam",
@@ -597,7 +591,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 23278336,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -627,13 +621,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 62
+		"common": 61
 	},
 	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
 		"ips": 2810,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "nullsecure",
@@ -645,7 +639,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9766,
-		"common": 140
+		"common": 139
 	},
 	{
 		"name": "openbl_1d",
@@ -657,19 +651,19 @@
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2245,
-		"common": 102
+		"common": 101
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 19273,
-		"common": 148
+		"common": 147
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3868,
-		"common": 125
+		"common": 124
 	},
 	{
 		"name": "openbl_7d",
@@ -681,13 +675,13 @@
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5359,
-		"common": 128
+		"common": 127
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 122721,
-		"common": 160
+		"common": 159
 	},
 	{
 		"name": "packetmail",
@@ -717,7 +711,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 183
+		"common": 184
 	},
 	{
 		"name": "ransomware_feed",
@@ -771,7 +765,7 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 23147520,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "spamhaus_edrop",
