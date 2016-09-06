@@ -86,56 +86,56 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4302,
+		"ips": 4309,
 		"common": 100
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5725,
+		"ips": 5729,
 		"common": 106
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23832,
+		"ips": 23830,
 		"common": 143
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9938,
+		"ips": 9941,
 		"common": 121
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29085,
+		"ips": 29433,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9176,
+		"ips": 9187,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1393,
+		"ips": 1401,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23914,
+		"ips": 24151,
 		"common": 11
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11270,
-		"common": 58
+		"ips": 11269,
+		"common": 56
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -200,73 +200,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4124,
-		"common": 17
+		"ips": 4098,
+		"common": 19
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 42078,
-		"common": 366
+		"ips": 42086,
+		"common": 367
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 207125,
+		"ips": 207110,
 		"common": 568
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 98088,
+		"ips": 98096,
 		"common": 515
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2162,
+		"ips": 2136,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4644,
+		"ips": 4634,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 72497,
+		"ips": 72455,
 		"common": 28
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22500,
+		"ips": 22492,
 		"common": 12
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 15
+		"common": 17
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 50571,
-		"common": 402
+		"ips": 50603,
+		"common": 403
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 235535,
+		"ips": 235592,
 		"common": 612
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 111970,
+		"ips": 112024,
 		"common": 557
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 53322,
-		"common": 442
+		"ips": 53357,
+		"common": 444
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377888,
+		"ips": 377886,
 		"common": 657
 	},
 	{
@@ -440,19 +440,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 102771,
+		"ips": 103103,
 		"common": 32
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1523046,
-		"common": 1084
+		"ips": 1523065,
+		"common": 1085
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585357,
+		"ips": 9585353,
 		"common": 433
 	},
 	{
@@ -702,6 +702,12 @@
 		"common": 2
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39309,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -908,7 +914,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1612,
+		"ips": 1614,
 		"common": 1
 	},
 	{
@@ -1070,8 +1076,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 311812,
-		"common": 642
+		"ips": 312012,
+		"common": 649
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1088,8 +1094,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 613078,
-		"common": 736
+		"ips": 613828,
+		"common": 743
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1118,8 +1124,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 11430,
-		"common": 935
+		"ips": 11433,
+		"common": 936
 	},
 	{
 		"name": "threatcrowd",
