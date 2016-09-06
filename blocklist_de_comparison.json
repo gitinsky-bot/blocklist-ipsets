@@ -134,7 +134,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 706,
+		"ips": 621,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4333,
+		"ips": 4316,
 		"common": 2
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23811,
+		"ips": 23816,
 		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9925,
+		"ips": 9923,
 		"common": 3
 	},
 	{
@@ -230,8 +230,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11419,
-		"common": 631
+		"ips": 11415,
+		"common": 632
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -632,14 +632,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1521008,
-		"common": 1696
+		"ips": 1521114,
+		"common": 1701
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585502,
-		"common": 1621
+		"ips": 9585500,
+		"common": 1622
 	},
 	{
 		"name": "firehol_proxies",
@@ -1166,26 +1166,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 944,
-		"common": 120
+		"ips": 903,
+		"common": 128
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2447,
-		"common": 222
+		"ips": 2369,
+		"common": 216
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 8711,
+		"ips": 8710,
 		"common": 292
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5755,
-		"common": 280
+		"ips": 5743,
+		"common": 281
 	},
 	{
 		"name": "proxyrss",
@@ -1236,22 +1236,28 @@
 		"common": 172
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 26,
+		"common": 7
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 255,
-		"common": 32
+		"ips": 257,
+		"common": 37
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
 		"ips": 2083,
-		"common": 155
+		"common": 156
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 974,
-		"common": 108
+		"ips": 967,
+		"common": 109
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1490,8 +1496,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 11030,
-		"common": 418
+		"ips": 11146,
+		"common": 424
 	},
 	{
 		"name": "threatcrowd",
