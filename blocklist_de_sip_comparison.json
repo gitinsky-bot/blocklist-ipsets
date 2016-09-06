@@ -26,20 +26,20 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1714,
+		"ips": 1717,
 		"common": 3
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 11013,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3863,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -57,24 +57,24 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 117,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31273,
-		"common": 1043
+		"common": 1063
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 10814,
-		"common": 127
+		"common": 129
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19408,
+		"ips": 19399,
 		"common": 1
 	},
 	{
@@ -93,13 +93,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 207259,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 98157,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "cleantalk_new_30d",
@@ -117,13 +117,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 235665,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 112093,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "cybercrime",
@@ -159,13 +159,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1444864,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 321536,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "et_block",
@@ -188,32 +188,32 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52638,
+		"ips": 52634,
 		"common": 8
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 377678,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103707,
-		"common": 1044
+		"ips": 103720,
+		"common": 1065
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1518486,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584847,
-		"common": 252
+		"ips": 9584838,
+		"common": 254
 	},
 	{
 		"name": "firehol_webserver",
@@ -225,7 +225,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095198,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "gpf_comics",
@@ -236,8 +236,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3610,
-		"common": 211
+		"ips": 3624,
+		"common": 215
 	},
 	{
 		"name": "haley_ssh",
@@ -327,7 +327,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 18
+		"common": 20
 	},
 	{
 		"name": "iblocklist_level2",
@@ -339,7 +339,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 62
+		"common": 63
+	},
+	{
+		"name": "iblocklist_org_joost",
+		"category": "organizations",
+		"ips": 16779456,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -387,7 +393,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2253830,
-		"common": 61
+		"common": 64
 	},
 	{
 		"name": "nixspam",
@@ -441,13 +447,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 192
+		"common": 196
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 205956,
-		"common": 25
+		"common": 27
 	},
 	{
 		"name": "sorbs_noserver",
@@ -459,19 +465,25 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1496061,
-		"common": 61
+		"common": 64
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204339,
-		"common": 48
+		"common": 49
+	},
+	{
+		"name": "sorbs_zombie",
+		"category": "spam",
+		"ips": 1969412,
+		"common": 1
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "stopforumspam",
@@ -531,6 +543,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18828,
-		"common": 41
+		"common": 40
 	}
 ]

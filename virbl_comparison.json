@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25383,
+		"ips": 25396,
 		"common": 17
 	},
 	{
@@ -116,20 +116,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52638,
+		"ips": 52634,
 		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 377678,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103707,
-		"common": 2097
+		"ips": 103720,
+		"common": 2096
 	},
 	{
 		"name": "firehol_level3",
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584847,
+		"ips": 9584838,
 		"common": 5
 	},
 	{
@@ -183,7 +183,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_level3",
@@ -210,10 +210,16 @@
 		"common": 12
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2253830,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "nixspam",
@@ -249,7 +255,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 205956,
-		"common": 206
+		"common": 205
 	},
 	{
 		"name": "sorbs_noserver",
@@ -261,13 +267,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1496061,
-		"common": 264
+		"common": 262
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6204339,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -276,28 +282,16 @@
 		"common": 69
 	},
 	{
-		"name": "stopforumspam",
-		"category": "abuse",
-		"ips": 164435,
-		"common": 1
-	},
-	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 312012,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 613828,
-		"common": 9
-	},
-	{
-		"name": "stopforumspam_90d",
-		"category": "abuse",
-		"ips": 165234,
-		"common": 1
+		"common": 8
 	},
 	{
 		"name": "stopforumspam_toxic",
