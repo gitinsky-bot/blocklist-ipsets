@@ -56,43 +56,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31607,
-		"common": 1004
+		"ips": 31628,
+		"common": 1016
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9223,
+		"ips": 9224,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1686,
-		"common": 4
+		"ips": 1670,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1408,
+		"ips": 1403,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25603,
-		"common": 996
+		"ips": 25624,
+		"common": 1009
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 1180,
+		"ips": 1202,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10394,
+		"ips": 10391,
 		"common": 33
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "cybercrime",
 		"category": "malware",
-		"ips": 17125,
+		"ips": 17216,
 		"common": 43
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 83130,
+		"ips": 83128,
 		"common": 74
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103272,
-		"common": 1051
+		"ips": 103287,
+		"common": 1063
 	},
 	{
 		"name": "firehol_level3",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584419,
+		"ips": 9584506,
 		"common": 141
 	},
 	{
@@ -1116,15 +1116,27 @@
 		"common": 7
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 57,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 167,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 681,
-		"common": 1
+		"ips": 687,
+		"common": 2
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 403,
-		"common": 1
+		"ips": 410,
+		"common": 2
 	}
 ]
