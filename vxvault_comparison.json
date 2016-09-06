@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10290,
+		"ips": 10285,
 		"common": 1
 	},
 	{
@@ -69,19 +69,19 @@
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 21228,
-		"common": 21
+		"common": 19
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
 		"ips": 10187,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 47482,
-		"common": 30
+		"common": 26
 	},
 	{
 		"name": "bruteforceblocker",
@@ -176,8 +176,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1516190,
-		"common": 48
+		"ips": 1516186,
+		"common": 41
 	},
 	{
 		"name": "firehol_level4",
@@ -189,7 +189,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442950,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "haley_ssh",
@@ -225,7 +225,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_edu",
@@ -249,7 +249,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level3",
@@ -261,7 +261,7 @@
 		"name": "iblocklist_malc0de",
 		"category": "malware",
 		"ips": 62,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -279,7 +279,7 @@
 		"name": "malc0de",
 		"category": "malware",
 		"ips": 66,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "openbl_180d",
@@ -333,7 +333,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "ransomware_feed",
@@ -362,7 +362,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 12704,
+		"ips": 12700,
 		"common": 2
 	},
 	{
@@ -375,6 +375,6 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 86,
-		"common": 17
+		"common": 16
 	}
 ]
