@@ -30,22 +30,28 @@
 		"common": 3
 	},
 	{
+		"name": "atlas_scans",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
 		"name": "atlas_scans_2d",
 		"category": "attacks",
-		"ips": 19,
+		"ips": 10,
 		"common": 1
 	},
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 100,
-		"common": 1
+		"ips": 94,
+		"common": 2
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 33,
-		"common": 1
+		"ips": 29,
+		"common": 2
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -297,24 +303,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 18
+		"common": 20
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 65536,
-		"common": 60
+		"ips": 65280,
+		"common": 63
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1452800,
+		"ips": 1453056,
 		"common": 205
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 329472,
+		"ips": 328704,
 		"common": 145
 	},
 	{
@@ -362,25 +368,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90233,
+		"ips": 90235,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 665003017,
-		"common": 25
+		"common": 27
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95191,
-		"common": 337
+		"ips": 95012,
+		"common": 338
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1527667,
+		"ips": 1526131,
 		"common": 574
 	},
 	{
@@ -566,8 +572,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 117,
-		"common": 117
+		"ips": 122,
+		"common": 119
 	},
 	{
 		"name": "openbl_30d",
