@@ -32,7 +32,7 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 3543,
+		"ips": 3863,
 		"common": 14
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11053,
+		"ips": 11066,
 		"common": 8
 	},
 	{
@@ -120,27 +120,33 @@
 		"common": 23
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4043,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 41929,
-		"common": 24
+		"ips": 41794,
+		"common": 23
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 207243,
+		"ips": 207229,
 		"common": 46
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 98197,
+		"ips": 98179,
 		"common": 40
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 72588,
+		"ips": 72583,
 		"common": 1
 	},
 	{
@@ -150,10 +156,16 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 50288,
-		"common": 29
+		"ips": 50117,
+		"common": 28
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -164,7 +176,7 @@
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 112099,
+		"ips": 112095,
 		"common": 51
 	},
 	{
@@ -230,13 +242,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52981,
-		"common": 69
+		"ips": 52801,
+		"common": 68
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377649,
+		"ips": 377635,
 		"common": 189
 	},
 	{
@@ -254,13 +266,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1519629,
-		"common": 29
+		"ips": 1518824,
+		"common": 28
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585102,
+		"ips": 9585115,
 		"common": 41
 	},
 	{
@@ -416,8 +428,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39468,
-		"common": 2
+		"ips": 39537,
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -668,8 +680,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 10470,
-		"common": 21
+		"ips": 11898,
+		"common": 20
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -776,7 +788,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 11909,
+		"ips": 11898,
 		"common": 20
 	},
 	{
