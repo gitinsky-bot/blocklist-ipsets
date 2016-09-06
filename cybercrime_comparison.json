@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1241,
-		"common": 8
+		"ips": 1250,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -98,7 +98,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 469,
+		"ips": 470,
 		"common": 1
 	},
 	{
@@ -122,19 +122,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4277,
+		"ips": 4266,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5694,
+		"ips": 5696,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23813,
+		"ips": 23814,
 		"common": 3
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11128,
+		"ips": 11230,
 		"common": 859
 	},
 	{
@@ -240,22 +240,28 @@
 		"common": 22
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 46,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1153,
-		"common": 12
+		"ips": 1143,
+		"common": 13
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19491,
+		"ips": 19483,
 		"common": 48
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5638,
-		"common": 30
+		"ips": 5635,
+		"common": 31
 	},
 	{
 		"name": "botvrij_dst",
@@ -440,13 +446,13 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 67328,
+		"ips": 66304,
 		"common": 21
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1450496,
+		"ips": 1449472,
 		"common": 209
 	},
 	{
@@ -548,19 +554,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 99748,
-		"common": 616
+		"ips": 98694,
+		"common": 609
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1523350,
+		"ips": 1522326,
 		"common": 262
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585241,
+		"ips": 9585323,
 		"common": 17125
 	},
 	{
@@ -602,8 +608,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4331,
-		"common": 567
+		"ips": 4300,
+		"common": 560
 	},
 	{
 		"name": "haley_ssh",
@@ -830,7 +836,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 23278336,
+		"ips": 23147520,
 		"common": 36
 	},
 	{
@@ -932,8 +938,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39694,
-		"common": 31
+		"ips": 39453,
+		"common": 32
 	},
 	{
 		"name": "nt_ssh_7d",
