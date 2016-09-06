@@ -27,13 +27,13 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 8142,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25069,
-		"common": 9156
+		"ips": 25153,
+		"common": 9158
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20531,
+		"ips": 20613,
 		"common": 8500
 	},
 	{
@@ -170,49 +170,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4169,
-		"common": 6
+		"ips": 4159,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 42038,
+		"ips": 42094,
 		"common": 72
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 207189,
+		"ips": 207190,
 		"common": 239
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 98284,
+		"ips": 98350,
 		"common": 132
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2213,
+		"ips": 2189,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4696,
+		"ips": 4694,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 72408,
+		"ips": 72430,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22531,
+		"ips": 22543,
 		"common": 14
 	},
 	{
@@ -225,24 +225,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 50815,
+		"ips": 50924,
 		"common": 73
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 235703,
+		"ips": 235712,
 		"common": 266
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 112222,
+		"ips": 112312,
 		"common": 137
 	},
 	{
@@ -279,7 +279,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 252669,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -303,19 +303,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 65536,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1454592,
-		"common": 76
+		"common": 77
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 329472,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "dshield_top_1000",
@@ -392,13 +392,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 53541,
+		"ips": 53621,
 		"common": 96
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377774,
+		"ips": 377817,
 		"common": 317
 	},
 	{
@@ -416,14 +416,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 95115,
-		"common": 9156
+		"ips": 95198,
+		"common": 9158
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1527664,
-		"common": 98
+		"ips": 1527667,
+		"common": 99
 	},
 	{
 		"name": "firehol_level4",
@@ -459,7 +459,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 4362,
-		"common": 127
+		"common": 128
 	},
 	{
 		"name": "haley_ssh",
@@ -579,7 +579,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 2124
+		"common": 2125
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -669,7 +669,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2253830,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "myip",
@@ -855,7 +855,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1467663,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "sorbs_web",
@@ -867,7 +867,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 55
+		"common": 56
 	},
 	{
 		"name": "sp_atma",
@@ -987,7 +987,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 10049,
-		"common": 78
+		"common": 79
 	},
 	{
 		"name": "voipbl",
