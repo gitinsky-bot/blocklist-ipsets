@@ -27,13 +27,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268310,
-		"common": 3
-	},
-	{
-		"name": "bbcan177_ms3",
-		"category": "malware",
-		"ips": 30151694,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -75,19 +69,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 70144,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1441536,
-		"common": 29
+		"common": 27
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 319232,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "et_block",
@@ -110,32 +104,32 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 664996359,
+		"ips": 664996358,
 		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 107746,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1516054,
-		"common": 30
+		"ips": 1516064,
+		"common": 28
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584443,
+		"ips": 9584442,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46442950,
-		"common": 174
+		"common": 170
 	},
 	{
 		"name": "gofferje_sip",
@@ -159,13 +153,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 34
+		"common": 32
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -189,19 +183,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 30
+		"common": 27
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 28
+		"common": 31
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 79
+		"common": 77
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -243,7 +237,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 195
+		"common": 193
 	},
 	{
 		"name": "malc0de",
@@ -261,13 +255,13 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 122785,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 167
+		"common": 163
 	},
 	{
 		"name": "snort_ipfilter",
@@ -315,7 +309,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9552,
-		"common": 214
+		"common": 206
 	},
 	{
 		"name": "talosintel_ipfilter",
