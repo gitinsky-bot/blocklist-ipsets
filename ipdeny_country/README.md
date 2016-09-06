@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Sun Sep  4 12:21:43 UTC 2016.
+The following list was automatically generated on Tue Sep  6 12:24:15 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -222,7 +222,6 @@ name|info|type|entries|update|
 [id_country_nl](http://iplists.firehol.org/?ipset=id_country_nl)|Netherlands (NL) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2597 subnets, 46020832 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_no](http://iplists.firehol.org/?ipset=id_country_no)|Norway (NO) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|892 subnets, 15706768 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_np](http://iplists.firehol.org/?ipset=id_country_np)|Nepal (NP) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|79 subnets, 502016 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_nr](http://iplists.firehol.org/?ipset=id_country_nr)|Nauru (NR) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|5 subnets, 9472 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_nr](http://iplists.firehol.org/?ipset=id_country_nr)|Nauru (NR) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|5 subnets, 9472 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_nu](http://iplists.firehol.org/?ipset=id_country_nu)|Niue (NU) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2 subnets, 2048 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_nu](http://iplists.firehol.org/?ipset=id_country_nu)|Niue (NU) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2 subnets, 2048 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
