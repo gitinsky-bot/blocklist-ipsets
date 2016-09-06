@@ -212,8 +212,8 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 231,
-		"common": 14
+		"ips": 235,
+		"common": 15
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
@@ -236,32 +236,32 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4390,
-		"common": 237
+		"ips": 4385,
+		"common": 239
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5755,
-		"common": 270
+		"ips": 5765,
+		"common": 271
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23846,
-		"common": 631
+		"ips": 23847,
+		"common": 630
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9950,
+		"ips": 9955,
 		"common": 369
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31942,
-		"common": 1444
+		"ips": 31994,
+		"common": 1448
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -272,44 +272,44 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1681,
+		"ips": 1675,
 		"common": 61
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 180,
+		"ips": 179,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 352,
+		"ips": 350,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1404,
+		"ips": 1399,
 		"common": 67
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25858,
-		"common": 1144
+		"ips": 25894,
+		"common": 1148
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 1282,
-		"common": 49
+		"ips": 1302,
+		"common": 51
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2105,
-		"common": 157
+		"ips": 2108,
+		"common": 155
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -554,8 +554,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6953,
-		"common": 473
+		"ips": 6946,
+		"common": 470
 	},
 	{
 		"name": "dragon_http",
@@ -632,19 +632,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 66304,
-		"common": 5888
+		"ips": 65024,
+		"common": 5632
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1442816,
-		"common": 66304
+		"ips": 1442048,
+		"common": 66048
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 319744,
+		"ips": 318720,
 		"common": 21760
 	},
 	{
@@ -848,8 +848,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90274,
-		"common": 3029
+		"ips": 90326,
+		"common": 3030
 	},
 	{
 		"name": "firehol_level1",
@@ -860,14 +860,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 103124,
-		"common": 7570
+		"ips": 101899,
+		"common": 7319
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1516779,
-		"common": 67714
+		"ips": 1516011,
+		"common": 67458
 	},
 	{
 		"name": "firehol_level4",
@@ -878,7 +878,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32544,
+		"ips": 32545,
 		"common": 1545
 	},
 	{
@@ -1520,7 +1520,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1617,
+		"ips": 1616,
 		"common": 105
 	},
 	{
@@ -1826,25 +1826,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1032,
+		"ips": 1033,
 		"common": 109
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1103,
+		"ips": 1101,
 		"common": 111
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2775,
+		"ips": 2776,
 		"common": 182
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1482,
+		"ips": 1483,
 		"common": 126
 	},
 	{
@@ -1886,26 +1886,26 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 57,
-		"common": 12
+		"ips": 61,
+		"common": 13
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 167,
-		"common": 37
+		"ips": 166,
+		"common": 36
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 687,
+		"ips": 691,
 		"common": 165
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 410,
-		"common": 106
+		"ips": 409,
+		"common": 104
 	},
 	{
 		"name": "yoyo_adservers",
