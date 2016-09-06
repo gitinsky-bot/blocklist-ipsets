@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32538,
+		"ips": 32562,
 		"common": 58
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1678,
+		"ips": 1671,
 		"common": 52
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26356,
+		"ips": 26391,
 		"common": 6
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10501,
+		"ips": 10401,
 		"common": 3
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303926,
+		"ips": 303925,
 		"common": 52
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90338,
-		"common": 2134
+		"ips": 90339,
+		"common": 2133
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106521,
+		"ips": 106548,
 		"common": 58
 	},
 	{
@@ -254,8 +254,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32563,
-		"common": 2134
+		"ips": 32564,
+		"common": 2133
 	},
 	{
 		"name": "firehol_webserver",
@@ -422,7 +422,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39101,
+		"ips": 38896,
 		"common": 2
 	},
 	{
@@ -666,27 +666,21 @@
 		"common": 8
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2042,
-		"common": 22
+		"ips": 2045,
+		"common": 20
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15612,
+		"ips": 15613,
 		"common": 136
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5370,
+		"ips": 5372,
 		"common": 133
 	},
 	{
@@ -740,14 +734,14 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 431,
-		"common": 431
+		"ips": 426,
+		"common": 426
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5802,
-		"common": 2135
+		"ips": 5798,
+		"common": 2134
 	},
 	{
 		"name": "stopforumspam",
