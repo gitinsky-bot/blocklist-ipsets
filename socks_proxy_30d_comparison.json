@@ -62,20 +62,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27376,
-		"common": 761
+		"ips": 27525,
+		"common": 762
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1647,
+		"ips": 1645,
 		"common": 25
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22672,
-		"common": 736
+		"ips": 22703,
+		"common": 737
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -290,19 +290,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 65792,
+		"ips": 67328,
 		"common": 8
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1447424,
+		"ips": 1447936,
 		"common": 84
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 323328,
+		"ips": 323072,
 		"common": 32
 	},
 	{
@@ -350,19 +350,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90227,
-		"common": 15322
+		"ips": 90229,
+		"common": 15324
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98902,
-		"common": 771
+		"ips": 100554,
+		"common": 772
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1521129,
+		"ips": 1521130,
 		"common": 401
 	},
 	{
@@ -374,8 +374,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32512,
-		"common": 15337
+		"ips": 32514,
+		"common": 15339
 	},
 	{
 		"name": "firehol_webserver",
@@ -950,14 +950,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1854,
-		"common": 1854
+		"ips": 1857,
+		"common": 1857
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5264,
-		"common": 5264
+		"ips": 5265,
+		"common": 5265
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -969,7 +969,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373113050,
-		"common": 4447
+		"common": 4449
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -999,13 +999,19 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 4065
+		"common": 4067
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 370,
-		"common": 6
+		"ips": 348,
+		"common": 7
 	},
 	{
 		"name": "sslproxies_30d",
