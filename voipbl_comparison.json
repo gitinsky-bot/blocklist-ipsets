@@ -186,6 +186,12 @@
 		"common": 9
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11278,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
 		"ips": 2703,
@@ -530,14 +536,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1522643,
+		"ips": 1521147,
 		"common": 1279
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585123,
-		"common": 120
+		"ips": 9585312,
+		"common": 121
 	},
 	{
 		"name": "firehol_proxies",
@@ -854,8 +860,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39590,
-		"common": 6
+		"ips": 39615,
+		"common": 7
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1070,7 +1076,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 9147,
+		"ips": 10470,
 		"common": 2
 	},
 	{
@@ -1202,7 +1208,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 10571,
+		"ips": 10470,
 		"common": 2
 	},
 	{

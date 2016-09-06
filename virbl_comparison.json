@@ -18,6 +18,12 @@
 		"common": 17
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11278,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 50685,
@@ -86,14 +92,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1522643,
+		"ips": 1521147,
 		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9585123,
-		"common": 3
+		"ips": 9585312,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -176,8 +182,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39590,
-		"common": 160
+		"ips": 39615,
+		"common": 139
 	},
 	{
 		"name": "packetmail_mail",
@@ -194,8 +200,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 9147,
-		"common": 3
+		"ips": 10470,
+		"common": 6
 	},
 	{
 		"name": "sorbs_dul",
@@ -266,7 +272,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 10571,
-		"common": 5
+		"ips": 10470,
+		"common": 6
 	}
 ]
