@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1717,
+		"ips": 1710,
 		"common": 10
 	},
 	{
@@ -68,37 +68,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31284,
-		"common": 44
+		"ips": 31460,
+		"common": 43
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9214,
+		"ips": 9218,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1680,
-		"common": 19
+		"ips": 1681,
+		"common": 18
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 176,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1407,
+		"ips": 1404,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 25396,
+		"ips": 25506,
 		"common": 22
 	},
 	{
@@ -132,22 +132,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 27,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1116,
-		"common": 11
+		"ips": 1095,
+		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19399,
+		"ips": 19395,
 		"common": 276
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5571,
-		"common": 75
+		"ips": 5575,
+		"common": 76
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52492,
+		"ips": 52478,
 		"common": 321
 	},
 	{
@@ -362,8 +368,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 104238,
-		"common": 50
+		"ips": 104416,
+		"common": 49
 	},
 	{
 		"name": "firehol_level3",
@@ -374,7 +380,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584699,
+		"ips": 9584696,
 		"common": 301
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3624,
+		"ips": 3642,
 		"common": 4
 	},
 	{
@@ -494,7 +500,7 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6851,
+		"ips": 6860,
 		"common": 2
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39444,
+		"ips": 39476,
 		"common": 4
 	},
 	{
