@@ -192,39 +192,51 @@
 		"common": 1
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4044,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 41794,
-		"common": 3
+		"ips": 41764,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 207229,
+		"ips": 207237,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 98179,
+		"ips": 98175,
 		"common": 6
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 50117,
-		"common": 3
+		"ips": 50078,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 235663,
+		"ips": 235635,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 112095,
+		"ips": 112072,
 		"common": 6
 	},
 	{
@@ -320,13 +332,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52801,
-		"common": 3
+		"ips": 52758,
+		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377635,
+		"ips": 377642,
 		"common": 9
 	},
 	{
@@ -356,7 +368,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 46442835,
+		"ips": 46443003,
 		"common": 77
 	},
 	{
@@ -554,8 +566,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1479,
-		"common": 97
+		"ips": 1505,
+		"common": 104
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -686,7 +698,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 18819,
+		"ips": 18828,
 		"common": 26
 	}
 ]
