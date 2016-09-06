@@ -128,13 +128,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 90207,
+		"ips": 90208,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 98641,
+		"ips": 98649,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32498,
+		"ips": 32499,
 		"common": 4
 	},
 	{
@@ -316,6 +316,12 @@
 		"category": "spam",
 		"ips": 2253830,
 		"common": 24
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39750,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
