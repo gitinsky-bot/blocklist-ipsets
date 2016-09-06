@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1679,
+		"ips": 1682,
 		"common": 9
 	},
 	{
@@ -128,32 +128,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32388,
-		"common": 16
+		"ips": 32373,
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9235,
+		"ips": 9230,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1683,
+		"ips": 1679,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 184,
+		"ips": 183,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1375,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26209,
-		"common": 3
+		"ips": 26208,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -164,7 +170,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2116,
+		"ips": 2112,
 		"common": 4
 	},
 	{
@@ -204,28 +210,22 @@
 		"common": 14
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 39,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1059,
+		"ips": 1048,
 		"common": 7
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19360,
+		"ips": 19356,
 		"common": 42
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5565,
-		"common": 20
+		"ips": 5544,
+		"common": 19
 	},
 	{
 		"name": "bruteforceblocker",
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52568,
+		"ips": 52569,
 		"common": 120
 	},
 	{
@@ -488,19 +488,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 104874,
+		"ips": 105603,
 		"common": 82
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1517544,
+		"ips": 1517696,
 		"common": 265
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584567,
+		"ips": 9584563,
 		"common": 6215
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3758,
+		"ips": 3740,
 		"common": 20
 	},
 	{
@@ -1274,7 +1274,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 12439,
+		"ips": 12598,
 		"common": 12
 	},
 	{
