@@ -9,13 +9,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33255,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 27082,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "cleantalk",
@@ -128,8 +128,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 110230,
-		"common": 2284
+		"ips": 110254,
+		"common": 2308
 	},
 	{
 		"name": "firehol_level3",
@@ -146,8 +146,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 46442950,
-		"common": 9
+		"ips": 46442993,
+		"common": 10
 	},
 	{
 		"name": "greensnow",
@@ -174,28 +174,22 @@
 		"common": 4
 	},
 	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 19
+		"common": 21
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 256
+		"common": 254
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -225,13 +219,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2253830,
-		"common": 107
+		"common": 106
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 38583,
-		"common": 85
+		"common": 120
 	},
 	{
 		"name": "packetmail_mail",
@@ -243,7 +237,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46224008,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "snort_ipfilter",
@@ -261,7 +255,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 265272,
-		"common": 377
+		"common": 375
 	},
 	{
 		"name": "sorbs_noserver",
@@ -273,7 +267,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1541577,
-		"common": 435
+		"common": 432
 	},
 	{
 		"name": "sorbs_web",
@@ -285,7 +279,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 76
+		"common": 78
 	},
 	{
 		"name": "stopforumspam_180d",

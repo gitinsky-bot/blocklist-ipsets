@@ -698,8 +698,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 110230,
-		"common": 71708
+		"ips": 110254,
+		"common": 71709
 	},
 	{
 		"name": "firehol_level3",
@@ -722,8 +722,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 46442950,
-		"common": 53819
+		"ips": 46442993,
+		"common": 53820
 	},
 	{
 		"name": "gofferje_sip",
@@ -1070,7 +1070,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 2468,
+		"ips": 2557,
 		"common": 15
 	},
 	{
@@ -1106,8 +1106,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 137,
-		"common": 36
+		"ips": 138,
+		"common": 38
 	},
 	{
 		"name": "openbl_30d",
@@ -1410,9 +1410,15 @@
 		"common": 31
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2054,
+		"ips": 2059,
 		"common": 4
 	},
 	{
@@ -1646,7 +1652,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 2284,
+		"ips": 2308,
 		"common": 3
 	},
 	{
