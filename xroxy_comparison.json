@@ -48,6 +48,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 10059,
+		"common": 2
+	},
+	{
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6923,
@@ -194,8 +200,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584040,
-		"common": 13
+		"ips": 9584058,
+		"common": 14
 	},
 	{
 		"name": "firehol_proxies",
@@ -266,7 +272,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38979,
+		"ips": 39095,
 		"common": 2
 	},
 	{
