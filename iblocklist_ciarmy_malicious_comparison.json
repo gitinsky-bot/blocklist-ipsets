@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10070,
+		"ips": 10048,
 		"common": 2
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 252710,
+		"ips": 252711,
 		"common": 1
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1512915,
+		"ips": 1512930,
 		"common": 1264
 	},
 	{
@@ -514,6 +514,12 @@
 		"category": "spam",
 		"ips": 2253830,
 		"common": 11
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39284,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
