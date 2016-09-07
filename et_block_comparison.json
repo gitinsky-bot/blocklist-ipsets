@@ -110,8 +110,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 35,
-		"common": 2
+		"ips": 33,
+		"common": 3
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -470,7 +470,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6905,
+		"ips": 6902,
 		"common": 5
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 881,
+		"ips": 882,
 		"common": 28
 	},
 	{
@@ -650,19 +650,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52713,
-		"common": 3990
+		"ips": 52715,
+		"common": 3988
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377767,
+		"ips": 377777,
 		"common": 8983
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 88893,
+		"ips": 88958,
 		"common": 10
 	},
 	{
@@ -692,7 +692,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32547,
+		"ips": 32544,
 		"common": 7
 	},
 	{
@@ -1094,8 +1094,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1412,
-		"common": 23
+		"ips": 1390,
+		"common": 22
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1112,7 +1112,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 203,
+		"ips": 212,
 		"common": 1
 	},
 	{
@@ -1128,21 +1128,27 @@
 		"common": 12
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 88,
-		"common": 3
+		"ips": 89,
+		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 752,
+		"ips": 761,
 		"common": 26
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 227,
+		"ips": 258,
 		"common": 8
 	},
 	{
@@ -1364,8 +1370,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 3943,
-		"common": 76
+		"ips": 3922,
+		"common": 75
 	},
 	{
 		"name": "stopforumspam_30d",
