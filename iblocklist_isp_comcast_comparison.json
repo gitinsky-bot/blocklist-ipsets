@@ -80,26 +80,26 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4276,
-		"common": 204
+		"ips": 4283,
+		"common": 206
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5690,
-		"common": 275
+		"ips": 5699,
+		"common": 276
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23819,
-		"common": 807
+		"ips": 23821,
+		"common": 808
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9919,
-		"common": 433
+		"ips": 9924,
+		"common": 434
 	},
 	{
 		"name": "blocklist_de",
@@ -110,19 +110,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9225,
+		"ips": 9226,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1644,
+		"ips": 1649,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1377,
+		"ips": 1383,
 		"common": 8
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 1381,
+		"ips": 1382,
 		"common": 20
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1439232,
+		"ips": 1437952,
 		"common": 5888
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 88886,
+		"ips": 88881,
 		"common": 351
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1514176,
+		"ips": 1512903,
 		"common": 6226
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 32528,
+		"ips": 32523,
 		"common": 228
 	},
 	{
@@ -1104,6 +1104,12 @@
 		"common": 11
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 2060,
@@ -1112,7 +1118,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 15575,
+		"ips": 15570,
 		"common": 183
 	},
 	{
