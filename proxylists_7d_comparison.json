@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1677,
+		"ips": 1670,
 		"common": 21
 	},
 	{
@@ -50,25 +50,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33708,
-		"common": 269
+		"ips": 33773,
+		"common": 270
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1648,
-		"common": 208
+		"ips": 1647,
+		"common": 209
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 27526,
+		"ips": 27576,
 		"common": 60
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2146,
+		"ips": 2160,
 		"common": 1
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10052,
+		"ips": 10004,
 		"common": 35
 	},
 	{
@@ -108,22 +108,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 34,
+		"common": 4
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 977,
-		"common": 48
+		"ips": 972,
+		"common": 49
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19291,
-		"common": 678
+		"ips": 19295,
+		"common": 680
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5517,
-		"common": 377
+		"ips": 5516,
+		"common": 378
 	},
 	{
 		"name": "bruteforceblocker",
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 52850,
+		"ips": 52851,
 		"common": 1834
 	},
 	{
@@ -332,20 +338,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 107601,
-		"common": 274
+		"ips": 107664,
+		"common": 275
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1513534,
+		"ips": 1513555,
 		"common": 125
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9584013,
-		"common": 693
+		"ips": 9583969,
+		"common": 695
 	},
 	{
 		"name": "firehol_proxies",
@@ -374,7 +380,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 4380,
+		"ips": 4376,
 		"common": 8
 	},
 	{
@@ -578,8 +584,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39222,
-		"common": 30
+		"ips": 39241,
+		"common": 26
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1052,8 +1058,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 12795,
-		"common": 30
+		"ips": 12693,
+		"common": 29
 	},
 	{
 		"name": "tor_exits_30d",
