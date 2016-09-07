@@ -8,62 +8,50 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 598,
-		"common": 256
+		"ips": 597,
+		"common": 253
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 2585,
-		"common": 256
+		"common": 253
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 1790,
-		"common": 256
+		"common": 253
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4274,
-		"common": 251
+		"ips": 4272,
+		"common": 247
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5696,
-		"common": 255
+		"ips": 5690,
+		"common": 252
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23816,
-		"common": 255
+		"ips": 23812,
+		"common": 252
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 9929,
-		"common": 255
+		"ips": 9927,
+		"common": 252
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6910,
 		"common": 9
-	},
-	{
-		"name": "bogons",
-		"category": "unroutable",
-		"ips": 592708608,
-		"common": 1
-	},
-	{
-		"name": "cidr_report_bogons",
-		"category": "unroutable",
-		"ips": 603946312,
-		"common": 1
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -86,7 +74,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1436672,
+		"ips": 1437440,
 		"common": 4
 	},
 	{
@@ -98,19 +86,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 88958,
+		"ips": 88960,
 		"common": 10
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 664996896,
-		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1512639,
+		"ips": 1512644,
 		"common": 4
 	},
 	{
@@ -124,12 +106,6 @@
 		"category": "attacks",
 		"ips": 46442993,
 		"common": 62
-	},
-	{
-		"name": "fullbogons",
-		"category": "unroutable",
-		"ips": 641066792,
-		"common": 1
 	},
 	{
 		"name": "gofferje_sip",
@@ -153,13 +129,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 15
-	},
-	{
-		"name": "iblocklist_cidr_report_bogons",
-		"category": "unroutable",
-		"ips": 603946312,
-		"common": 1
+		"common": 14
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -174,22 +144,10 @@
 		"common": 7
 	},
 	{
-		"name": "iblocklist_fornonlancomputers",
-		"category": "reputation",
-		"ips": 302055424,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_iana_private",
-		"category": "unroutable",
-		"ips": 51643638,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -255,7 +213,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373088736,
-		"common": 26
+		"common": 24
 	},
 	{
 		"name": "sorbs_noserver",
